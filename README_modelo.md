@@ -1,6 +1,6 @@
 # Dados do Aluno
 
-- **Nome: Guilherme Cortez**  
+- **Nome: GMTC**  
 - **Número: a22603422**  
 - **Turma: Turno 1**  
 
