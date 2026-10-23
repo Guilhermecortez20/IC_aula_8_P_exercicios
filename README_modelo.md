@@ -1,17 +1,13 @@
 # Dados do Aluno
 
-- **Nome:**  
-- **Número:**  
-- **Turma:**  
+- **Nome: Guilherme Cortez**  
+- **Número: a22603422**  
+- **Turma: Turno 1**  
 
 ---
 
 ## Alterações realizadas
-
-(Descreve brevemente as alterações feitas neste repositório.)
-
----
-
+Preenchi com os meus dados de aluno
 ## Observações (opcional)
 
 (Podes deixar aqui algum comentário sobre o processo, dificuldades ou observações relevantes.)
