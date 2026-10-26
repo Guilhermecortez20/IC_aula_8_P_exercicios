@@ -11,6 +11,10 @@ Preenchi com os meus dados de aluno
 ## Exercício 6
 
 Estou a praticar a sincronização entre o repositório local e o remoto.
+
+## Exercício 7
+
+Revisão geral de Git, branches, rebase e Git LFS.
 ## Observações (opcional)
 
 (Podes deixar aqui algum comentário sobre o processo, dificuldades ou observações relevantes.)
